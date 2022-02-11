@@ -1,4 +1,4 @@
 Soy Reylis Hernandez
-Esta es la tarea numero dos: Calculadora
+Esta es la tarea numero uno: Mi presentacion 
 
 ![Captura de Pantalla](mitarea.png)
